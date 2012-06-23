@@ -1,0 +1,1 @@
+cmd_drivers/cci/sensors/yamaha/built-in.o :=  arm-eabi-ld -EL    -r -o drivers/cci/sensors/yamaha/built-in.o drivers/cci/sensors/yamaha/yas529.o drivers/cci/sensors/yamaha/adxl345.o drivers/cci/sensors/yamaha/orientation.o 

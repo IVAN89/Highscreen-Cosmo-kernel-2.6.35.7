@@ -1,0 +1,1 @@
+cmd_drivers/mtd/tests/mtd_erasepart.ko := arm-eabi-ld -EL -r  -T /media/source/cosmo/scripts/module-common.lds --build-id -o drivers/mtd/tests/mtd_erasepart.ko drivers/mtd/tests/mtd_erasepart.o drivers/mtd/tests/mtd_erasepart.mod.o

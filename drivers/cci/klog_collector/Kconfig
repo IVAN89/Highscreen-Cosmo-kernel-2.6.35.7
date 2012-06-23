@@ -1,0 +1,5 @@
+#Pochun_TKxxx_20101123_Begin
+config CCI_KLOG_COLLECTOR
+	tristate "Kernel Log Collector"
+	default y
+#Pochun_TKxxx_20101123_End

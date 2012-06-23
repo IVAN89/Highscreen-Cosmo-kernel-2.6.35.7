@@ -1,0 +1,8 @@
+kernel/drivers/cci/klog_collector/klog_collector.ko
+kernel/drivers/cci/leds/leds-pmic-key.ko
+kernel/drivers/cci/leds/leds-pmic-nled.ko
+kernel/drivers/cci/leds/leds-an32155a.ko
+kernel/drivers/cci/sensors/yamaha/yas529.ko
+kernel/drivers/cci/sensors/yamaha/adxl345.ko
+kernel/drivers/cci/sensors/yamaha/orientation.ko
+kernel/drivers/cci/vibrator/msm_smem_vib.ko

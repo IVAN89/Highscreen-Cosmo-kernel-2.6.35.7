@@ -1,0 +1,2 @@
+kernel/drivers/cci/leds/leds-pmic-key.ko
+kernel/drivers/cci/leds/leds-pmic-nled.ko

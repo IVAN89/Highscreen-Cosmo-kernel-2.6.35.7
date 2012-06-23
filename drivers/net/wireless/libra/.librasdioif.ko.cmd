@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/libra/librasdioif.ko := arm-eabi-ld -EL -r  -T /media/source/cosmo/scripts/module-common.lds --build-id -o drivers/net/wireless/libra/librasdioif.ko drivers/net/wireless/libra/librasdioif.o drivers/net/wireless/libra/librasdioif.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/mtd/tests/mtd_speedtest.ko := arm-eabi-ld -EL -r  -T /media/source/cosmo/scripts/module-common.lds --build-id -o drivers/mtd/tests/mtd_speedtest.ko drivers/mtd/tests/mtd_speedtest.o drivers/mtd/tests/mtd_speedtest.mod.o
